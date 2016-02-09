@@ -3,8 +3,8 @@
 
 ############################################################
 #USER CONFIGURATION: SET YOUR PATHS
-win_path = 'E:\\Music\\' #be sure to use double backslashes!
-lin_path = '/home/justinmitchell/Music/Music/'
+win_path = '' #be sure to use double backslashes if it's a Windows path!
+lin_path = ''
 ############################################################
 
 import codecs
